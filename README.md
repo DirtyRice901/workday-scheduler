@@ -23,7 +23,7 @@ SO THAT I can manage time
   WHEN I refresh the page
   THEN the saved events persist
 
-* **Screenshot**: 
+## ScreenShot 
 ![](./assets/05-third-party-apis-homework-demo.gif)
 
 ## Solution URL:
