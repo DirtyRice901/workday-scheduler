@@ -56,4 +56,4 @@ THEN the saved events persist
 
 ## Solution URL:
 
-[URL link:](https://dirtyrice901.github.io/workday-scheduler/):](https://dirtyrice901.github.io/workday-scheduler/)
+[Link to Workday Scheduler](https://dirtyrice901.github.io/workday-scheduler/):](https://dirtyrice901.github.io/workday-scheduler/)
