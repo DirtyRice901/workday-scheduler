@@ -7,7 +7,7 @@ AS A Coding BootCamp Instructor
 I WANT to add important lectures to current time scheduler
 SO THAT I can manage time  
 
-* **Acceptance Criteria**: 
+## Acceptance Criteria: 
 GIVEN I am using a daily planner to create a schedule
 WHEN I open the planner
 THEN the current day is displayed at the top of the calendar
