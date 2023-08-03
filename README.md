@@ -27,14 +27,8 @@ THEN the saved events persist
 
 ## Solution URL:
 
-[# Module 5 Third-Party APIs Challenge: Work Day Scheduler
-Workday Scheduling is a system that comprehensively manages employees, businesses and personal needs when creating shift schedules. It was recommended by the UFC Bootcamp Elite to incorporate, as a future Web Dev Engineer, the skills needed to create current time planners with the ability to store user input for later.
+[Link to Workday Scheduler](https://dirtyrice901.github.io/workday-scheduler/)
 
-
-* **User Story**: 
-AS A Coding BootCamp Instructor
-I WANT to add important lectures to current time scheduler
-SO THAT I can manage time  
 
 * **Acceptance Criteria**: 
 GIVEN I am using a daily planner to create a schedule
